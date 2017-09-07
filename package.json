@@ -87,7 +87,7 @@
     "phantomjs-prebuilt": "^2.1.8",
     "pre-commit": "^1.2.2",
     "rimraf": "^2.6.1",
-    "ts-loader": "^2.0.3",
+    "ts-loader": "^2.3.6",
     "tsify": "^3.0.0",
     "tslint": "^5.0.0",
     "typedoc": "^0.8.0",
